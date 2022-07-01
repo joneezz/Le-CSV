@@ -1,0 +1,15 @@
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\bin\Debug\net6.0\LerCSV.exe
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\bin\Debug\net6.0\LerCSV.deps.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\bin\Debug\net6.0\LerCSV.runtimeconfig.json
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\bin\Debug\net6.0\LerCSV.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\bin\Debug\net6.0\LerCSV.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.csproj.AssemblyReference.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.AssemblyInfoInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.AssemblyInfo.cs
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.csproj.CoreCompileInputs.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\refint\LerCSV.dll
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.pdb
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\LerCSV.genruntimeconfig.cache
+C:\Users\ericj\OneDrive\Documentos\Codigos\LerCsv\LerCSV\LerCSV\obj\Debug\net6.0\ref\LerCSV.dll
